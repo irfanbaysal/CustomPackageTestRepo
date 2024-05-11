@@ -1,0 +1,20 @@
+{
+    "name": "CustomPackage",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.irfanbaysal.custompackagetest",
+            "expression": "",
+            "define": "PACKAGE_TEST"
+        }
+    ],
+    "noEngineReferences": false
+}
